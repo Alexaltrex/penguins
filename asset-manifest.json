@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/penguins/static/css/main.688de628.chunk.css",
+    "main.js": "/penguins/static/js/main.837dc4fd.chunk.js",
+    "main.js.map": "/penguins/static/js/main.837dc4fd.chunk.js.map",
+    "runtime-main.js": "/penguins/static/js/runtime-main.977a942f.js",
+    "runtime-main.js.map": "/penguins/static/js/runtime-main.977a942f.js.map",
+    "static/js/2.8f93d1b3.chunk.js": "/penguins/static/js/2.8f93d1b3.chunk.js",
+    "static/js/2.8f93d1b3.chunk.js.map": "/penguins/static/js/2.8f93d1b3.chunk.js.map",
+    "static/js/3.9d01fb1f.chunk.js": "/penguins/static/js/3.9d01fb1f.chunk.js",
+    "static/js/3.9d01fb1f.chunk.js.map": "/penguins/static/js/3.9d01fb1f.chunk.js.map",
+    "index.html": "/penguins/index.html",
+    "static/css/main.688de628.chunk.css.map": "/penguins/static/css/main.688de628.chunk.css.map",
+    "static/js/2.8f93d1b3.chunk.js.LICENSE.txt": "/penguins/static/js/2.8f93d1b3.chunk.js.LICENSE.txt",
+    "static/media/ThePenguins.caa36609.png": "/penguins/static/media/ThePenguins.caa36609.png",
+    "static/media/about_ice_desktop.867552e1.png": "/penguins/static/media/about_ice_desktop.867552e1.png",
+    "static/media/background_desktop.02ab1611.jpg": "/penguins/static/media/background_desktop.02ab1611.jpg",
+    "static/media/desktop_ice_left_1.7395d022.png": "/penguins/static/media/desktop_ice_left_1.7395d022.png",
+    "static/media/desktop_ice_right_1.5f9dec22.png": "/penguins/static/media/desktop_ice_right_1.5f9dec22.png",
+    "static/media/icons.symbol.d1540c2b.svg": "/penguins/static/media/icons.symbol.d1540c2b.svg",
+    "static/media/penguin1.a4f5763e.png": "/penguins/static/media/penguin1.a4f5763e.png",
+    "static/media/penguin_1.aecab393.png": "/penguins/static/media/penguin_1.aecab393.png",
+    "static/media/penguin_2.8134148f.png": "/penguins/static/media/penguin_2.8134148f.png",
+    "static/media/penguin_3.2e9ef4b5.png": "/penguins/static/media/penguin_3.2e9ef4b5.png",
+    "static/media/penguin_4.d9dbba97.png": "/penguins/static/media/penguin_4.d9dbba97.png",
+    "static/media/pre_sale_desktop.6510132c.png": "/penguins/static/media/pre_sale_desktop.6510132c.png",
+    "static/media/pre_sale_mobile.d73147e8.png": "/penguins/static/media/pre_sale_mobile.d73147e8.png",
+    "static/media/sign.635d7c43.png": "/penguins/static/media/sign.635d7c43.png",
+    "static/media/stay1.d0d61d2c.png": "/penguins/static/media/stay1.d0d61d2c.png",
+    "static/media/stay_bgr.45de55d6.png": "/penguins/static/media/stay_bgr.45de55d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977a942f.js",
+    "static/js/2.8f93d1b3.chunk.js",
+    "static/css/main.688de628.chunk.css",
+    "static/js/main.837dc4fd.chunk.js"
+  ]
+}
