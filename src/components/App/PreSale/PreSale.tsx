@@ -37,7 +37,7 @@ export interface IPreSale {
 }
 
 export const PreSale: FC<IPreSale> = ({setShowModalHandler}) => {
-    const [timeIsOver, setTimeIsOver] = useState(true);
+    const [timeIsOver, setTimeIsOver] = useState(false);
     const [connectedTheWallet, setConnectedTheWallet] = useState(connectedTheWalletFromApi);
 
     const [time, setTime] = useState(
@@ -65,7 +65,6 @@ export const PreSale: FC<IPreSale> = ({setShowModalHandler}) => {
 
     useEffect(() => {
         const timeId = setTimeout(() => {
-            console.log('-----');
             if (start) {
                 if (time <= 60000) {
                     setTimeIsOver(true);
